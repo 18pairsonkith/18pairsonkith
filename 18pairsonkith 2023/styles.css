@@ -415,6 +415,13 @@ nav {
   .card {
     background-color: #1f140f;
   }
+
+  .featured-image {
+    width: 100%;
+    max-width: 800px;
+    display: block;
+    margin: 20px auto;
+  }
   
   @media (max-width: 600px) {
     .card-img-top {
@@ -434,7 +441,37 @@ nav {
       max-width: 100%;
     }
   }
-  
+  .faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+  }
+  .faq-item {
+    border-bottom: 2px solid #ccc;
+    padding: 1rem 0;
+    margin-bottom: 1rem;
+  }
+  .faq-question {
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.25rem;
+    background-color: #c72d31;
+    color: #e3c7a8;
+    padding: 0.5rem;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  .faq-question:hover {
+    background-color: #e3c7a8;
+    color: #1f140f;
+  }
+  .faq-answer {
+    display: none;
+    padding: 1rem 0;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 4px;
+  }
   /* Mobile Navigation */
 .hamburger {
   display: none;
@@ -466,7 +503,10 @@ nav {
   }
 
   .hamburger-menu {
-    display: flex;
-    flex-direction: column;
+    display: none;
+  }
+  
+  .hamburger-menu.open {
+    display: block;
   }
 }
