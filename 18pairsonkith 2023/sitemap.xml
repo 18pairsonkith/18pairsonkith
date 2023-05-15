@@ -1,40 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-    <url>
-        <loc>https://18pairsonkith.com</loc>
-        <lastmod>2023-03-21</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://18pairsonkith.com/index</loc>
-        <lastmod>2023-03-21</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://18pairsonkith.com/about-us</loc>
-        <lastmod>2023-03-21</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://18pairsonkith.com/blog</loc>
-        <lastmod>2023-03-21</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://18pairsonkith.com/faq</loc>
-        <lastmod>2023-03-21</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://18pairsonkith.com/privacy-policy</loc>
-        <lastmod>2023-03-21</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
+
+<url>
+  <loc>https://18pairsonkith.com/</loc>
+  <lastmod>2023-05-14T06:10:56+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://18pairsonkith.com/index.html</loc>
+  <lastmod>2023-05-14T06:10:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://18pairsonkith.com/about-us.html</loc>
+  <lastmod>2023-05-14T06:10:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://18pairsonkith.com/blog.html</loc>
+  <lastmod>2023-05-14T06:10:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://18pairsonkith.com/faq.html</loc>
+  <lastmod>2023-05-14T06:10:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://18pairsonkith.com/blog/top-sneaker-bots-2023.html</loc>
+  <lastmod>2023-05-14T06:10:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://18pairsonkith.com/privacy-policy.html</loc>
+  <lastmod>2023-05-14T06:10:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
