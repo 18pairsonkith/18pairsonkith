@@ -4,7 +4,7 @@ This is the repository for my personal website, which is hosted on GitHub Pages.
 
 ## Setup
 
-1. Clone the repository: `git clone https://github.com/username/repository.git`
+1. Clone the repository: `git clone https://github.com/18pairsonkith/18pairsonkith.git`
 2. Navigate to the repository's directory: `cd repository`
 3. Open the `index.html` file in your browser to view the site.
 
