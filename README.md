@@ -1,6 +1,6 @@
 # My Website
 
-This is the repository for my personal website. The website showcases my portfolio of work and includes my blog posts, project showcase, and contact information.
+This is the repository 18pairsonkith.com. The website showcases my portfolio of work and includes my blog posts, project showcase, and contact information.
 
 ## Contributing
 
